@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://blog.filestack.com/wp-content/uploads/2018/11/url-python.gif" alt="lombaanderson" /> </p>
 
+<p align="right"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="lombaanderson" /> </p>
+
+
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [lombanderson.epizy.com](lombanderson.epizy.com)
