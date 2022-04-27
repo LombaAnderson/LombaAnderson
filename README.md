@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anderson Lomba</h1>
-<h3 align="center">A passionate full stack developer from from Brazil</h3>
+<h3 align="center">A passionate full stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://blog.filestack.com/wp-content/uploads/2018/11/url-python.gif" alt="lombaanderson" /> </p>
 
