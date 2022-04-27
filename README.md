@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://blog.filestack.com/wp-content/uploads/2018/11/url-python.gif" alt="lombaanderson" /> </p>
 
-<p align="right"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="lombaanderson" /> </p>
+
 
 
 
@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Python for Web, Django, Flask, Data Science.**
 
 - 📫 How to reach me **andersonlomba172@gmail.com**
+
+
+<p align="right"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="lombaanderson" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
