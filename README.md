@@ -48,6 +48,3 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="lombaanderson" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lombaanderson&show_icons=true&locale=en" alt="lombaanderson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lombaanderson&" alt="lombaanderson" /></p>
