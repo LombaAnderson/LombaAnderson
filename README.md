@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [lombanderson.epizy.com](lombanderson.epizy.com)
 
-- 💬 Ask me about **Python for Web, Django, Flask, Data Science.**
+- 💬 Ask me about **Python for Web, Django, C#, Aspnet Core, JavaScript**
 
 - 📫 How to reach me **andersonlomba172@gmail.com**
 
