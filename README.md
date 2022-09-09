@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 
-<p align="left"> <img src="https://blog.filestack.com/wp-content/uploads/2018/11/url-python.gif" alt="lombaanderson" /> </p> 
+<p align="left"> <img src="https://media0.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47mjszv29gfj6oja54p0jih3wmfl2dcadxfc0r02ar&rid=giphy.gif&ct=g" alt="lombaanderson" /> </p> 
+
+
 
 
 
