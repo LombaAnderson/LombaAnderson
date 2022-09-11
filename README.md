@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [lombanderson.epizy.com](lombanderson.epizy.com)
 
-- 💬 Ask me about **Python for Web, Django, C#, Aspnet Core, JavaScript**
+- 💬 Ask me about **C# for Web, Python, Django, JavaScript**
 
 - 📫 How to reach me **andersonlomba172@gmail.com**
 
