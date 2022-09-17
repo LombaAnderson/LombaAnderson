@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and C#**
 
 - 👨‍💻 All of my projects are available at [lombanderson.epizy.com](lombanderson.epizy.com)
 
